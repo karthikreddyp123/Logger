@@ -1,0 +1,8 @@
+ERROR - Caought Exception System.DivideByZeroException: Attempted to divide by zero.
+   at Logger._Default.Page_Load(Object sender, EventArgs e) in C:\Users\KH2282\source\repos\Logger\Logger\Default.aspx.cs:line 19
+ERROR - Caought Exception System.DivideByZeroException: Attempted to divide by zero.
+   at Logger._Default.Page_Load(Object sender, EventArgs e) in C:\Users\KH2282\source\repos\Logger\Logger\Default.aspx.cs:line 19
+ERROR - Caought Exception System.DivideByZeroException: Attempted to divide by zero.
+   at Logger._Default.Page_Load(Object sender, EventArgs e) in C:\Users\KH2282\source\repos\Logger\Logger\Default.aspx.cs:line 19
+ERROR - Caought Exception System.DivideByZeroException: Attempted to divide by zero.
+   at Logger._Default.Page_Load(Object sender, EventArgs e) in C:\Users\KH2282\source\repos\Logger\Logger\Default.aspx.cs:line 19
